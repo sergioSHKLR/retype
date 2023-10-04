@@ -1,0 +1,127 @@
+
+# Retype
+# -----------------------------------------------------------------------------
+
+input: .                      # Local path from this retype.yml file to the
+                              # root of your project content files
+                              # See also: output
+
+# -----------------------------------------------------------------------------
+
+output: .retype               # Custom path to the output directory
+                              # See also: input
+
+# -----------------------------------------------------------------------------
+
+locale: pt
+
+# -----------------------------------------------------------------------------
+
+url: https://sergioshklr.github.io/retype/ # Can also include a protocol
+
+# -----------------------------------------------------------------------------
+
+branding:
+  title: 💧 doutrina.org              # Your custom website title; keep it short
+  label: 23.10                 # Optional label
+                              # To remove the label, remove this config
+
+# -----------------------------------------------------------------------------
+
+footer:
+  #copyright: "© No rights reserved." # A custom copyright statement
+  #links:                      # A list of links to include in the footer
+                              # See also: links
+  #  - text: License           # The text to use for the link
+   #   link: license.md        # Point to an internal file or external URL
+
+# -----------------------------------------------------------------------------
+
+cache:
+  busting: query              # Cache busting strategy
+                              # Options: none | path | query (default)
+
+# -----------------------------------------------------------------------------
+
+#cname: example.com            # The CNAME file value
+                              # or, false to not create a CNAME file
+
+# -----------------------------------------------------------------------------
+
+edit:
+  repo: "https://github.com/sergioSHKLR/retype"                    # The URL to source files for this project
+  label: "Edite esta página"     # A custom label for the generated link
+
+# -----------------------------------------------------------------------------
+
+editor:
+  enabled: true # Default is true
+
+# -----------------------------------------------------------------------------
+
+favicon: /favicon.png   # Path to a custom favicon, or
+                              # just put a favicon.ico in your project root
+
+# -----------------------------------------------------------------------------
+
+generator:
+  recase: all                 # `none` to not recase any file or folder names
+                              # By default, all generated file and folder names
+                              # are generated in all lowercase
+
+# -----------------------------------------------------------------------------
+
+markdown:                     # Markdown configuration options
+  lineBreaks: hard            # Switch between `soft` and `hard` line breaks
+
+# -----------------------------------------------------------------------------
+
+meta:
+  title: " | doutrina.org"         # Appended to the <title> element on all pages
+
+# -----------------------------------------------------------------------------
+
+search:                       # Custom configuration of the website search
+  hotkeys:
+    - "/"                     # Keyboard key to set focus in the search field
+                              # Default is "k"
+  maxResults: 20              # Max number of search results to render
+  minChars: 5                 # Min characters required to trigger a search
+  mode: full                  # The search index creation mode
+                              # Options include: full | partial | basic
+  noResultsFoundMsg: "Nenhum resultado" # Message when no results are found
+  placeholder: Pesquisar         # Placeholder text used in the input field
+
+# -----------------------------------------------------------------------------
+
+serve:
+  host: 127.0.0.1:5005        # Custom port also supported
+  port: 5005                  # Custom port configured separately from host
+  watch:
+    mode: memory              # Where to host files from during retype watch
+                              # Options include: memory (default) | disk
+    polling: true             # How Retype will listen for file changes
+                              # Options: false (default) | true | number
+    validation: optimal       # How thorough Retype is looking for file changes
+                              # Options: fast | full | optimal (default)
+
+# -----------------------------------------------------------------------------
+
+start:
+  open: true                 # Do not automatically open web browser on start
+
+# -----------------------------------------------------------------------------
+
+snippets:                     # Custom code snippets configuration
+                              # See: https://retype.com/components/code-snippet
+  lineNumbers:                # Language shortcodes to enable line numbering on
+    - js
+    - none                    # `none` to disable line-numbering on snippets
+
+# -----------------------------------------------------------------------------
+
+templating:
+  enabled: true               # Enable or disable the Retype content templating
+  liquid: false               # Is Liquid syntax {% ... %} enabled?
+                              # If true, Retype is incompatible with the
+                              # GitBook style of component configuration
