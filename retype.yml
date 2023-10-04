@@ -16,8 +16,7 @@ footer:
   #links:
   #  - text: License
    #   link: license.md
-cache:
-  busting: query
+
 #cname: example.com
 edit:
   repo: "https://github.com/sergioSHKLR/retype"
