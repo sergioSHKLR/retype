@@ -49,3 +49,5 @@ snippets:
 templating:
   enabled: true
   liquid: false
+exclude:
+  - "full-md"
