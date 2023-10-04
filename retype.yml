@@ -54,3 +54,9 @@ templating:
   liquid: false
 exclude:
   - "full-md"
+
+integrations:
+  googleAnalytics:
+    id: 6251979624
+  googleTagManager:
+    id: G-4SF4E30CW2
