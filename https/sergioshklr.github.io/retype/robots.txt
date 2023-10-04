@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://sergioshklr.github.io/retype/sitemap.xml.gz
