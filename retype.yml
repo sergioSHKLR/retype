@@ -1,3 +1,9 @@
+# -----------------------------------------------------------------------------
+# Retype Pro
+# -----------------------------------------------------------------------------
+start:
+  open: true
+
 input: .
 output: https://sergioshklr.github.io/retype/
 locale: pt
@@ -40,8 +46,6 @@ serve:
     mode: memory              
     polling: true             
     validation: optimal
-start:
-  open: true
 snippets:
   lineNumbers:
     - js
