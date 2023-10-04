@@ -30,10 +30,10 @@ Nossas fases de desenvolvimento são:
 
 Para tal fim, use o menu, as setas de navegação ou os links abaixo.
 
-- [📘 O Livro dos Espíritos](./1lde.md)
-- [📙 O Livro dos Médiuns](./2ldm.md)
-- [📗 O Evangelho segundo o Espiritismo](./3ese.md)
-- [📕 O Céu e o Inferno](./4ceu.md)
-- [📓 A Gênese](./5gen.md)
+- [📘 O Livro dos Espíritos](./1lde/)
+- [📙 O Livro dos Médiuns](./2ldm/)
+- [📗 O Evangelho segundo o Espiritismo](./3ese/)
+- [📕 O Céu e o Inferno](./4ceu/)
+- [📓 A Gênese](./5gen/)
 
 Por fim, necessitamos de programadores front-end e full-stack. Caso queira contribuir com este projeto, entre em contato pelo Github.
