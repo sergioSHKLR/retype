@@ -16,7 +16,7 @@ date: 1857-04-18
 :::content-center
 Filosofia Espiritualista
 
-[📘 **O Livro dos Espíritos**](https://pt.m.wikipedia.org/wiki/O_Evangelho_segundo_o_Espiritismo){:target="ext"}
+📘 [**O Livro dos Espíritos**](https://pt.m.wikipedia.org/wiki/O_Evangelho_segundo_o_Espiritismo){:target="ext"}
 
 Princípios da Doutrina Espírita
 

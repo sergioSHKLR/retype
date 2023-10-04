@@ -1,5 +1,6 @@
 ---
-label: 🏠 Início
+icon: ":house:"
+label: Início
 layout: default
 order: 1000
 author:
