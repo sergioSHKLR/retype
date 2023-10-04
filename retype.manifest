@@ -1,6 +1,6 @@
 {
   "version": "3.5.0",
-  "created": "2023-10-04T00:18:03Z",
+  "created": "2023-10-04T04:49:24Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -9,10 +9,43 @@
       "path": "1lde/index.html"
     },
     {
+      "path": "1lde/p0/index.html"
+    },
+    {
+      "path": "1lde/p1/index.html"
+    },
+    {
+      "path": "1lde/p2/index.html"
+    },
+    {
+      "path": "1lde/p3/index.html"
+    },
+    {
+      "path": "1lde/p4/index.html"
+    },
+    {
+      "path": "1lde/p5/index.html"
+    },
+    {
       "path": "2ldm/index.html"
     },
     {
+      "path": "2ldm/p0/index.html"
+    },
+    {
+      "path": "2ldm/p1/index.html"
+    },
+    {
+      "path": "2ldm/p2/index.html"
+    },
+    {
       "path": "3ese/index.html"
+    },
+    {
+      "path": "3ese/p0/index.html"
+    },
+    {
+      "path": "3ese/p1/index.html"
     },
     {
       "path": "404.html"
@@ -21,13 +54,23 @@
       "path": "4ceu/index.html"
     },
     {
+      "path": "4ceu/p0/index.html"
+    },
+    {
+      "path": "4ceu/p1/index.html"
+    },
+    {
+      "path": "4ceu/p2/index.html"
+    },
+    {
       "path": "5gen/index.html"
     },
     {
       "path": "avatar.png"
     },
     {
-      "path": "central/index.html"
+      "path": "central/index.html",
+      "old": true
     },
     {
       "path": "favicon.png"
@@ -81,7 +124,8 @@
       "path": "sitemap.xml.gz"
     },
     {
-      "path": "test/index.html"
+      "path": "test/index.html",
+      "old": true
     }
   ]
 }
