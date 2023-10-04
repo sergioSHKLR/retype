@@ -5,9 +5,9 @@ start:
   open: true
 
 input: .
-output: https://sergioshklr.github.io/retype/
+output: .retype
 locale: pt
-url: https://sergioshklr.github.io/retype/
+url: https://sergioshklr.github.io/retype-paginated/
 branding:
   title: 💧 doutrina.org
   label: 23.10
@@ -19,7 +19,7 @@ footer:
 
 #cname: example.com
 edit:
-  repo: "https://github.com/sergioSHKLR/retype"
+  repo: "https://github.com/sergioSHKLR/retype-paginated"
   label: "Edite esta página"
 editor:
   enabled: true

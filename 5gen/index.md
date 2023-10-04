@@ -1,5 +1,5 @@
 ---
-icon: ":notebook:"
+icon: ":seedling:"
 label: A Gênese
 layout: default
 order: 100

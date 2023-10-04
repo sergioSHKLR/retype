@@ -1,5 +1,5 @@
 ---
-icon: ":blue_book:"
+icon: ":ghost:"
 label: O Livro dos Espíritos
 order: 500
 ---
