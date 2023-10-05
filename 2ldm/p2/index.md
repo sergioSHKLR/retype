@@ -1956,7 +1956,7 @@ Variedades especiais para os efeitos físicos:
 
 **Médiuns proféticos**: variedade dos médiuns inspirados ou de pressentimentos. Recebem, permitindo-o Deus, com mais precisão do que os médiuns de pressentimentos, a revelação de futuras coisas de interesse geral e são incumbidos de dá-las a conhecer aos homens, para instrução destes.
 
-> 👻 ▸ Se há profetas verdadeiros, mais ainda os há falsos, que consideram revelações os devaneios da própria imaginação, quando não são embusteiros que, por ambição, se apresentam como tais. (**Veja-se**, em **📘 O Livro dos Espíritos**, a questão 624, sobre as características do verdadeiro profeta.)
+> 👻 ▸ Se há profetas verdadeiros, mais ainda os há falsos, que consideram revelações os devaneios da própria imaginação, quando não são embusteiros que, por ambição, se apresentam como tais. (**Veja-se**, em **👻 O Livro dos Espíritos**, a questão 624, sobre as características do verdadeiro profeta.)
 
 **Médiuns sonâmbulos**: os que, em estado de sonambulismo, são assistidos por Espíritos. 👉 ([LDM-p172](#LDM-p172))
 
@@ -2372,7 +2372,7 @@ A faculdade mediúnica está sujeita a intermitências e a suspensões temporár
 
 A prática do Espiritismo, como veremos mais adiante, demanda muito tato, para a inutilização das tramas dos Espíritos enganadores. Se estes iludem a homens feitos, claro é que a infância e a juventude mais expostas se acham a ser vítimas deles. Sabe-se, além disso, que o recolhimento é uma condição sem a qual não se pode lidar com Espíritos sérios. As evocações feitas estouvadamente e por gracejo constituem verdadeira profanação, que facilita o acesso aos Espíritos zombeteiros ou malfazejos. Ora, não se podendo esperar de uma criança a gravidade necessária a semelhante ato, muito de temer é que ela faça disso um brinquedo, se ficar entregue a si mesma. Ainda nas condições mais favoráveis, é de desejar que uma criança dotada de faculdade mediúnica não a exercite senão sob a vigilância de pessoas experientes, que lhe ensinem, pelo exemplo, o respeito devido às almas dos que viveram no mundo. Por aí se vê que a questão de idade está subordinada às circunstâncias, assim de temperamento, como de caráter. Todavia, o que ressalta com clareza das respostas acima é que não se deve forçar o desenvolvimento dessas faculdades nas crianças, quando não é espontânea, e que, em todos os casos, se deve proceder com grande circunspeção, não convindo nem excitá-las, nem animá-las nas pessoas débeis. Do seu exercício cumpre afastar, por todos os meios possíveis, as que apresentem sintomas, ainda que mínimos, de excentricidade nas ideias ou de enfraquecimento das faculdades mentais, porquanto, nessas pessoas, há predisposição evidente para a loucura, que se pode manifestar por efeito de qualquer sobre-excitação. As ideias espíritas não têm, a esse respeito, maior influência do que outras, mas, vindo a loucura a declarar-se, tomará o caráter de preocupação dominante, como tomaria o caráter religioso, se a pessoa se entregasse em excesso às práticas de devoção, e a responsabilidade seria lançada ao Espiritismo. O que de melhor se tem a fazer com todo indivíduo que mostre tendência à ideia fixa é dar outra diretriz às suas preocupações, a fim de lhe proporcionar repouso aos órgãos enfraquecidos.
 
-Chamamos, a propósito deste assunto, a atenção dos nossos leitores para o parágrafo XII da Introdução de **📘 O Livro dos Espíritos**.
+Chamamos, a propósito deste assunto, a atenção dos nossos leitores para o parágrafo XII da Introdução de **👻 O Livro dos Espíritos**.
 
 ### 📑 19. Do papel dos médiuns nas comunicações espíritas
 
@@ -3526,7 +3526,7 @@ A coisa era, de fato, real, mas, poucos dias depois, o parente destruiu seu test
 
 > 👻 ▸ Não; bem sabes que nesse momento o Espírito está em completa perturbação.
 
-**📝 Nota**. A encarnação não se torna definitiva senão no momento em que a criança respira; porém, desde a concepção do corpo, o Espírito designado para animá-lo é presa de uma perturbação que aumenta à medida que o nascimento se aproxima e lhe tira a consciência de si mesmo e, por conseguinte, a faculdade de responder. (**Veja-se**: **📘 O Livro dos Espíritos**: Da volta do Espírito à vida corporal, União da alma e do corpo, questão 344)
+**📝 Nota**. A encarnação não se torna definitiva senão no momento em que a criança respira; porém, desde a concepção do corpo, o Espírito designado para animá-lo é presa de uma perturbação que aumenta à medida que o nascimento se aproxima e lhe tira a consciência de si mesmo e, por conseguinte, a faculdade de responder. (**Veja-se**: **👻 O Livro dos Espíritos**: Da volta do Espírito à vida corporal, União da alma e do corpo, questão 344)
 
 52. Poderia um Espírito mistificador tomar o lugar de uma pessoa viva que se evocasse?
 
@@ -3585,7 +3585,7 @@ Não se segue daí que dos Espíritos não se possam obter úteis esclarecimento
 
 #### #️⃣ 287
 
-Pensam algumas pessoas ser preferível que todos se abstenham de formular perguntas e que convém esperar o ensino dos Espíritos, sem o provocar. É um erro. Os Espíritos dão, não há dúvida, instruções espontâneas de alto alcance e que errôneo seria desprezar-se. Mas explicações há que frequentemente se teriam de esperar longo tempo, se não fossem solicitadas. Sem as questões que propusemos, **📘 O Livro dos Espíritos** e O livro dos médiuns ainda estariam por fazer-se, ou, pelo menos, muito incompletos e sem solução uma imensidade de problemas de grande importância. As questões, longe de terem qualquer inconveniente, são de grandíssima utilidade, do ponto de vista da instrução, quando quem as propõe sabe encerrá-las nos devidos limites.
+Pensam algumas pessoas ser preferível que todos se abstenham de formular perguntas e que convém esperar o ensino dos Espíritos, sem o provocar. É um erro. Os Espíritos dão, não há dúvida, instruções espontâneas de alto alcance e que errôneo seria desprezar-se. Mas explicações há que frequentemente se teriam de esperar longo tempo, se não fossem solicitadas. Sem as questões que propusemos, **👻 O Livro dos Espíritos** e O livro dos médiuns ainda estariam por fazer-se, ou, pelo menos, muito incompletos e sem solução uma imensidade de problemas de grande importância. As questões, longe de terem qualquer inconveniente, são de grandíssima utilidade, do ponto de vista da instrução, quando quem as propõe sabe encerrá-las nos devidos limites.
 
 Têm ainda outra vantagem: a de concorrerem para o desmascaramento dos Espíritos mistificadores que, mais pretensiosos do que sábios, raramente suportam a prova das perguntas feitas com cerrada lógica, por meio das quais o interrogante os leva aos seus últimos redutos. Os Espíritos Superiores, como nada têm que temer de semelhante questionário, são os primeiros a provocar explicações sobre os pontos obscuros. Os outros, ao contrário, receando ter que se haver com antagonistas mais fortes, cuidadosamente as evitam. Por isso mesmo, em geral, recomendam aos médiuns, que eles desejam dominar, e aos quais querem impor suas utopias, se abstenham de toda controvérsia a propósito de seus ensinos.
 
@@ -4203,7 +4203,7 @@ As manifestações físicas, conforme já dissemos, têm grande utilidade, visto
 
 #### #️⃣ 343
 
-Os que evocam seus parentes e amigos, ou certas personagens célebres, para lhes comparar as opiniões de Além-Túmulo com as que sustentavam quando vivos, ficam, não raro, embaraçados para manter com eles a conversação, sem caírem nas banalidades e futilidades. Pensam muitas pessoas, ademais, que **📘 O Livro dos Espíritos** esgotou a série das questões de moral e de filosofia. É um erro. Por isso julgamos útil indicar a fonte donde se pode tirar assuntos de estudo, por assim dizer inesgotáveis.
+Os que evocam seus parentes e amigos, ou certas personagens célebres, para lhes comparar as opiniões de Além-Túmulo com as que sustentavam quando vivos, ficam, não raro, embaraçados para manter com eles a conversação, sem caírem nas banalidades e futilidades. Pensam muitas pessoas, ademais, que **👻 O Livro dos Espíritos** esgotou a série das questões de moral e de filosofia. É um erro. Por isso julgamos útil indicar a fonte donde se pode tirar assuntos de estudo, por assim dizer inesgotáveis.
 
 #### #️⃣ 344
 
@@ -4880,7 +4880,7 @@ De fato, a facilidade com que algumas pessoas aceitam tudo o que vem do Mundo In
 
 [^8]: A.K.: Esta questão foi tratada em 👉 👻 ▸ [#️⃣ 128](/1LDE/##️⃣ 128) e seguintes; mas, com relação a este assunto, como acerca de tudo o que respeita à parte religiosa, recomendamos a brochura intitulada: Carta de um católico sobre o espiritismo, do Dr. Grand, ex-cônsul da França (à venda na Livraria Ledoyen, in-18; preço 1 franco), bem como a que vamos publicar sob o título: Os contraditores do espiritismo, do ponto de vista da religião, da ciência e do materialismo.
 
-[^9]: A.K.: Quem se quiser reportar a tudo o que dissemos em **📘 O Livro dos Espíritos** sobre os sonhos e o estado do Espírito durante o sono (questões 400 a 418), conceberá que esses sonhos que quase toda gente tem, em que nos vemos transportados através do espaço e como que voando, são mera recordação do que o nosso Espírito experimentou quando, durante o sono, deixara momentaneamente o corpo material, levando consigo apenas o corpo fluídico, o que ele conservará depois da morte. Esses sonhos, pois, nos podem dar uma ideia do estado do Espírito, quando se houver desembaraçado dos entraves que o retêm preso ao solo.
+[^9]: A.K.: Quem se quiser reportar a tudo o que dissemos em **👻 O Livro dos Espíritos** sobre os sonhos e o estado do Espírito durante o sono (questões 400 a 418), conceberá que esses sonhos que quase toda gente tem, em que nos vemos transportados através do espaço e como que voando, são mera recordação do que o nosso Espírito experimentou quando, durante o sono, deixara momentaneamente o corpo material, levando consigo apenas o corpo fluídico, o que ele conservará depois da morte. Esses sonhos, pois, nos podem dar uma ideia do estado do Espírito, quando se houver desembaraçado dos entraves que o retêm preso ao solo.
 
 [^10]: N.E.: Confusões, balbúrdias.
 

@@ -1,5 +1,6 @@
 ---
-label: 🗂️ 4. Das esperanças e consolações
+icon: ":card_index_dividers:"
+label: 4 - Das esperanças e consolações
 layout: default
 order: 200
 author:

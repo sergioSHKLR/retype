@@ -1,5 +1,6 @@
 ---
-label: 🗂️ 5. Conclusão
+icon: ":card_index_dividers:"
+label: 5 - Conclusão
 layout: default
 order: 100
 author:

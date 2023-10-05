@@ -1,5 +1,6 @@
 ---
-label: 🗂️ 1. Causas primárias
+icon: ":card_index_dividers:"
+label: 1 - Causas primárias
 layout: default
 order: 500
 author:

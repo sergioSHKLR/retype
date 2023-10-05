@@ -1,5 +1,6 @@
 ---
-label: 🗂️ 2. Do mundo espírita
+icon: ":card_index_dividers:"
+label: 2 - Do mundo espírita
 layout: default
 order: 400
 author:
