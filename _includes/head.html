@@ -2,13 +2,28 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4SF4E30CW2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
+  function gtag() { dataLayer.push(arguments); }
   gtag('js', new Date());
 
   gtag('config', 'G-4SF4E30CW2');
 </script>
 
+<script type="application/json" class="js-hypothesis-config">
+{
+"showHighlights": true,
+"openSidebar": true
+}
+</script>
+<script async src="https://hypothes.is/embed.js"></script>
 <style>
+  #docs-app {
+    width: calc(100vw - 450px);
+  }
+
+  #docs-site-header>div {
+    margin-right: 300px;
+  }
+
   .spirit {
     background-color: aliceblue;
     padding: 5px 10px 5px 5px;
@@ -26,6 +41,7 @@
   h5 {
     border-bottom: 1px solid gainsboro;
     padding-bottom: 3px;
+    margin: 50px 0;
   }
 
   h6 {
@@ -33,4 +49,13 @@
     color: dimgrey !important;
   }
 
+/*
+  blockquote::before {
+    content: "👻 "
+  }
+*/
+
+  em {
+    color: crimson !important
+  }
 </style>

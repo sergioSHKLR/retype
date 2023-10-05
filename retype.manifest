@@ -1,5 +1,336 @@
 {
   "version": "3.5.0",
-  "created": "2023-10-04T23:54:54Z",
-  "files": []
+  "created": "2023-10-05T02:16:32Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "1lde/index.html"
+    },
+    {
+      "path": "1lde/p0/index.html"
+    },
+    {
+      "path": "1lde/p0/vine.png"
+    },
+    {
+      "path": "1lde/p1/index.html"
+    },
+    {
+      "path": "1lde/p2/index.html"
+    },
+    {
+      "path": "1lde/p3/index.html"
+    },
+    {
+      "path": "1lde/p4/index.html"
+    },
+    {
+      "path": "1lde/p5/index.html"
+    },
+    {
+      "path": "2ldm/index.html"
+    },
+    {
+      "path": "2ldm/p0/index.html"
+    },
+    {
+      "path": "2ldm/p1/index.html"
+    },
+    {
+      "path": "2ldm/p2/index.html"
+    },
+    {
+      "path": "3ese/index.html"
+    },
+    {
+      "path": "3ese/p0/index.html"
+    },
+    {
+      "path": "3ese/p1/index.html"
+    },
+    {
+      "path": "3ese/p1/maps/0-master.html"
+    },
+    {
+      "path": "3ese/p1/maps/bordeaux.html"
+    },
+    {
+      "path": "3ese/p1/maps/constantine.html"
+    },
+    {
+      "path": "3ese/p1/maps/havre.html"
+    },
+    {
+      "path": "3ese/p1/maps/krakow.html"
+    },
+    {
+      "path": "3ese/p1/maps/lyon.html"
+    },
+    {
+      "path": "3ese/p1/maps/marmande.html"
+    },
+    {
+      "path": "3ese/p1/maps/mulhouse.html"
+    },
+    {
+      "path": "3ese/p1/maps/paris.html"
+    },
+    {
+      "path": "3ese/p1/maps/poitiers.html"
+    },
+    {
+      "path": "3ese/p1/maps/sens.html"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "4ceu/index.html"
+    },
+    {
+      "path": "4ceu/p0/index.html"
+    },
+    {
+      "path": "4ceu/p1/index.html"
+    },
+    {
+      "path": "4ceu/p2/index.html"
+    },
+    {
+      "path": "5gen/index.html"
+    },
+    {
+      "path": "5gen/p0/index.html"
+    },
+    {
+      "path": "5gen/p1/index.html"
+    },
+    {
+      "path": "5gen/p2/index.html"
+    },
+    {
+      "path": "5gen/p3/index.html"
+    },
+    {
+      "path": "avatar.png"
+    },
+    {
+      "path": "favicon.png"
+    },
+    {
+      "path": "favicon.svg"
+    },
+    {
+      "path": "hash.svg"
+    },
+    {
+      "path": "images/agony-sea.jpg"
+    },
+    {
+      "path": "images/canadian-accountant.jpg"
+    },
+    {
+      "path": "images/ceu.png"
+    },
+    {
+      "path": "images/chart.svg"
+    },
+    {
+      "path": "images/elder-french.jpg"
+    },
+    {
+      "path": "images/equinocio.png"
+    },
+    {
+      "path": "images/ese.png"
+    },
+    {
+      "path": "images/ext-link.svg"
+    },
+    {
+      "path": "images/father-son.png"
+    },
+    {
+      "path": "images/french-elder.jpg"
+    },
+    {
+      "path": "images/french-lady.png"
+    },
+    {
+      "path": "images/french-monsignor.jpg"
+    },
+    {
+      "path": "images/french-philosopher.jpg"
+    },
+    {
+      "path": "images/french-priest.jpg"
+    },
+    {
+      "path": "images/french-sailor.jpg"
+    },
+    {
+      "path": "images/gen.png"
+    },
+    {
+      "path": "images/hyp-logo.png"
+    },
+    {
+      "path": "images/hyp-logo.svg"
+    },
+    {
+      "path": "images/lde.png"
+    },
+    {
+      "path": "images/ldm.png"
+    },
+    {
+      "path": "images/man-door.jpg"
+    },
+    {
+      "path": "images/mourning-peasant.png"
+    },
+    {
+      "path": "images/off-white-paper.jpg"
+    },
+    {
+      "path": "images/old-drunk.jpg"
+    },
+    {
+      "path": "images/old-paper-dark.jpg"
+    },
+    {
+      "path": "images/old-paper-inverted.jpg"
+    },
+    {
+      "path": "images/old-paper.jpg"
+    },
+    {
+      "path": "images/piao.png"
+    },
+    {
+      "path": "images/polaroid.png"
+    },
+    {
+      "path": "images/precessao.png"
+    },
+    {
+      "path": "images/russian-prince.jpg"
+    },
+    {
+      "path": "images/screenshot.png"
+    },
+    {
+      "path": "images/sign.png"
+    },
+    {
+      "path": "images/suicide-bathtub.jpg"
+    },
+    {
+      "path": "images/vine.png"
+    },
+    {
+      "path": "images/young-couple.jpeg"
+    },
+    {
+      "path": "images/young-priest.jpg"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "legal/index.html"
+    },
+    {
+      "path": "pwa/black-notebook.png"
+    },
+    {
+      "path": "pwa/blue-book.png"
+    },
+    {
+      "path": "pwa/favicon.png"
+    },
+    {
+      "path": "pwa/favicon.svg"
+    },
+    {
+      "path": "pwa/green-book.png"
+    },
+    {
+      "path": "pwa/home.png"
+    },
+    {
+      "path": "pwa/maskable.png"
+    },
+    {
+      "path": "pwa/offline.html"
+    },
+    {
+      "path": "pwa/orange-book.png"
+    },
+    {
+      "path": "pwa/red-book.png"
+    },
+    {
+      "path": "pwa/screenshot.png"
+    },
+    {
+      "path": "resources/css/retype.css"
+    },
+    {
+      "path": "resources/fonts/Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources/js/config.js"
+    },
+    {
+      "path": "resources/js/lunr.js"
+    },
+    {
+      "path": "resources/js/retype.js"
+    },
+    {
+      "path": "resources/js/search.json"
+    },
+    {
+      "path": "resources/lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "tags/allan-kardec/index.html"
+    },
+    {
+      "path": "tags/index.html"
+    },
+    {
+      "path": "tags/obras-básicas/index.html"
+    },
+    {
+      "path": "tags/sergioshklr/index.html"
+    },
+    {
+      "path": "test/index.html"
+    }
+  ]
 }
