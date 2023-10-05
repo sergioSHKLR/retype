@@ -1,6 +1,6 @@
 ---
 
-:icon-comment-discussion: Deixe seu comentário
+:icon-comment-discussion: Ajude outros, deixe seu comentário.
 
 <script src="https://giscus.app/client.js"
         data-repo="sergioSHKLR/retype-paginated"

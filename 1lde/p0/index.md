@@ -8,7 +8,7 @@ author:
     avatar: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Photo_Kardec.jpg/182px-Photo_Kardec.jpg
 edit:
   repo: "https://github.com/sergioSHKLR/retype/edit/"
-tags: [sergioSHKLR]
+tags: [allan kardec, obras básicas]
 date: 1857-04-18
 ---
 
