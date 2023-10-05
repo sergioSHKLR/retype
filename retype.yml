@@ -10,17 +10,21 @@ locale: pt
 url: https://sergioshklr.github.io/retype-paginated/
 branding:
   title: 💧 doutrina.org
-  label: 23.10
+  label: v3.10
 footer:
-  #copyright: "© No rights reserved."
-  #links:
-  #  - text: License
-   #   link: license.md
+  copyright: Alguns direitos reservados
+  links:
+
+    - text: Edite
+      link: https://github.com/sergioSHKLR/retype-paginated
+      icon: pencil 
+
+    - text: Avisos legais
+      link: legal.md
+      icon: law 
 
 #cname: example.com
-edit:
-  repo: "https://github.com/sergioSHKLR/retype-paginated"
-  label: "Edite esta página"
+
 editor:
   enabled: true
 favicon: /favicon.png

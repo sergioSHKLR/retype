@@ -2,6 +2,7 @@
 label: test
 order: 1
 layout: central
+visibility: hidden
 ---
 
 ### 📑 01. De Deus

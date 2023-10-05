@@ -9,6 +9,7 @@ author:
     avatar: ./avatar.png
 edit:
   repo: "https://github.com/sergioSHKLR/retype/edit/"
+tags: [sergioSHKLR]
 
 date: 2023-10-03
 ---

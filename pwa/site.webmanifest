@@ -1,0 +1,143 @@
+{
+  "id": "/",
+  "scope": "https://doutrina.org/",
+  "name": "doutrina.org",
+  "display": "fullscreen",
+  "start_url": "https://doutrina.org",
+  "short_name": "doutrina",
+  "theme_color": "#4ec1f5",
+  "description": "Uma plataforma inédita de estudos integrados; permitindo a consulta de fontes externas sem a necessidade de sair da janela original.",
+  "orientation": "landscape-primary",
+  "background_color": "#000",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "display_override": ["window-controls-overlay"],
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "handle_links": "preferred",
+  "launch_handler": {
+    "client_mode": "navigate-existing"
+},
+  "iarc_rating_id": "",
+  "share_target": {
+    "action": "/handle-shared-content/",
+    "method": "GET",
+    "enctype":"application/x-www-form-urlencoded",
+    "params": {
+      "title": "doutrina.org",
+      "url": "https://doutrina.org"
+    }
+  },
+  "scope_extensions": [
+    {"origin": "doutrina.org/*"}
+  ],  
+  "icons": [
+    {
+      "src": "https://doutrina.org/pwa/maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://doutrina.org/pwa/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot.png",
+      "sizes": "1280x640",
+      "type": "image/png"
+    }
+  ],
+  "features": [
+    "Cross Platform",
+    "rápido",
+    "simples"
+  ],
+  "categories": [
+    "education"
+  ],
+  "shortcuts": [
+    {
+      "name":"Início",
+      "url":"/",
+      "description":"voltar à página inicial",
+      "icons": [
+        {
+          "src": "https://doutrina.org/pwa/home.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any"
+        }
+      ]
+    },
+    {
+      "name":"O Livro dos Espíritos",
+      "url":"/1lde.html",
+      "description":"📘 O Livro dos Espíritos",
+      "icons": [
+        {
+          "src": "https://doutrina.org/pwa/blue-book.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any"
+        }
+      ]
+    },
+    {
+      "name":"O Livro dos Médiuns",
+      "url":"/2ldm.html",
+      "description":"📙 O Livro dos Médiuns",
+      "icons": [
+        {
+          "src": "https://doutrina.org/pwa/orange-book.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any"
+        }
+      ]
+    },
+    {
+      "name":"O Evangelho segundo o Espiritismo",
+      "url":"/3ese.html",
+      "description":"📗 O Evangelho segundo o Espiritismo",
+      "icons": [
+        {
+          "src": "https://doutrina.org/pwa/green-book.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any"
+        }
+      ]
+    },
+    {
+      "name":"O Céu e o Inferno",
+      "url":"/4ceu.html",
+      "description":"📕 O Céu e o Inferno",
+      "icons": [
+        {
+          "src": "https://doutrina.org/pwa/red-book.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any"
+        }
+      ]
+    },
+    {
+      "name":"A Gênese",
+      "url":"/5gen.html",
+      "description":"📓 A Gênese",
+      "icons": [
+        {
+          "src": "https://doutrina.org/pwa/black-notebook.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any"
+        }
+      ]
+    }
+  ]
+}

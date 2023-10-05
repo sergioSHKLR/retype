@@ -8,6 +8,7 @@ author:
     avatar: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Photo_Kardec.jpg/182px-Photo_Kardec.jpg
 edit:
   repo: "https://github.com/sergioSHKLR/retype/edit/"
+tags: [sergioSHKLR]
 date: 1857-04-18
 ---
 
@@ -357,7 +358,7 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 
 ### 📄 Prolegômenos
 
-![Cepa Espírita](./assets/vine.png)
+![Cepa Espírita](./vine.png)
 
 Fenômenos alheios às leis da ciência humana se dão por toda parte, revelando na causa que os produz a ação de uma vontade livre e inteligente.
 
