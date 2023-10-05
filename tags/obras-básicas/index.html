@@ -9,7 +9,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/retype-paginated">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.749786303545">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.749812249867">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -34,23 +34,38 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../favicon.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.5.0.749786303545" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.5.0.749812249867" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.749786303545" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.749812249867" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.749786303545" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.749812249867" data-turbo-eval="false" defer></script>
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-4SF4E30CW2"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
+      function gtag() { dataLayer.push(arguments); }
       gtag('js', new Date());
 
       gtag('config', 'G-4SF4E30CW2');
     </script>
 
+    <script type="application/json" class="js-hypothesis-config">
+    {
+    "showHighlights": true,
+    "openSidebar": true
+    }
+    </script>
+    <script async src="https://hypothes.is/embed.js"></script>
     <style>
+      #docs-app {
+        width: calc(100vw - 450px);
+      }
+
+      #docs-site-header>div {
+        margin-right: 300px;
+      }
+
       .spirit {
         background-color: aliceblue;
         padding: 5px 10px 5px 5px;
@@ -68,6 +83,7 @@
       h5 {
         border-bottom: 1px solid gainsboro;
         padding-bottom: 3px;
+        margin: 50px 0;
       }
 
       h6 {
@@ -75,8 +91,16 @@
         color: dimgrey !important;
       }
 
-    </style>
+    /*
+      blockquote::before {
+        content: "👻 "
+      }
+    */
 
+      em {
+        color: crimson !important
+      }
+    </style>
 </head>
 <body>
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=G-4SF4E30CW2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -216,7 +240,7 @@
 <a class="no-link mb-6 overflow-hidden border border-gray-200 rounded-lg md:flex dark:border-dark-700 hover:border-gray-400 dark:hover:border-dark-450" href="../../1lde/p1/">
     <div class="p-6">
         <div class="text-xs font-semibold text-blue-500 uppercase dark:text-blue-400">O Livro dos Espíritos</div>
-        <div class="mt-2 text-lg font-semibold leading-snug text-gray-900 dark:text-white md:text-xl">🗂️ 1. Das causas primárias</div>
+        <div class="mt-2 text-lg font-semibold leading-snug text-gray-900 dark:text-white md:text-xl">🗂️ 1. Causas primárias</div>
         <div class="line-clamp-3"><p class="hidden mt-2 md:block">Deus é a inteligência suprema, causa primária de todas as coisas. [^ 4], [^ 5]</p></div>
         <div class="flex mt-3 items-center">
             <div class="text-sm text-gray-500 dark:text-dark-350"><span>1857-04-18</span></div>
@@ -346,7 +370,6 @@
 <a class="no-link mb-6 overflow-hidden border border-gray-200 rounded-lg md:flex dark:border-dark-700 hover:border-gray-400 dark:hover:border-dark-450" href="../../5gen/">
     <div class="p-6">
         <div class="mt-2 text-lg font-semibold leading-snug text-gray-900 dark:text-white md:text-xl">A Gênese</div>
-        <div class="line-clamp-3"><p class="hidden mt-2 md:block"> Ajude outros, deixe seu comentário.</p></div>
         <div class="flex mt-3 items-center">
             <div class="text-sm text-gray-500 dark:text-dark-350"><span>1868-01-01</span></div>
         </div>
@@ -356,7 +379,6 @@
     <div class="p-6">
         <div class="text-xs font-semibold text-blue-500 uppercase dark:text-blue-400">A Gênese</div>
         <div class="mt-2 text-lg font-semibold leading-snug text-gray-900 dark:text-white md:text-xl">🗂️ 0.</div>
-        <div class="line-clamp-3"><p class="hidden mt-2 md:block"> Ajude outros, deixe seu comentário.</p></div>
         <div class="flex mt-3 items-center">
             <div class="text-sm text-gray-500 dark:text-dark-350"><span>1868-01-01</span></div>
         </div>
@@ -366,7 +388,6 @@
     <div class="p-6">
         <div class="text-xs font-semibold text-blue-500 uppercase dark:text-blue-400">A Gênese</div>
         <div class="mt-2 text-lg font-semibold leading-snug text-gray-900 dark:text-white md:text-xl">🗂️ 1.</div>
-        <div class="line-clamp-3"><p class="hidden mt-2 md:block"> Ajude outros, deixe seu comentário.</p></div>
         <div class="flex mt-3 items-center">
             <div class="text-sm text-gray-500 dark:text-dark-350"><span>1868-01-01</span></div>
         </div>
@@ -376,7 +397,6 @@
     <div class="p-6">
         <div class="text-xs font-semibold text-blue-500 uppercase dark:text-blue-400">A Gênese</div>
         <div class="mt-2 text-lg font-semibold leading-snug text-gray-900 dark:text-white md:text-xl">🗂️ 2.</div>
-        <div class="line-clamp-3"><p class="hidden mt-2 md:block"> Ajude outros, deixe seu comentário.</p></div>
         <div class="flex mt-3 items-center">
             <div class="text-sm text-gray-500 dark:text-dark-350"><span>1868-01-01</span></div>
         </div>
@@ -386,7 +406,6 @@
     <div class="p-6">
         <div class="text-xs font-semibold text-blue-500 uppercase dark:text-blue-400">A Gênese</div>
         <div class="mt-2 text-lg font-semibold leading-snug text-gray-900 dark:text-white md:text-xl">🗂️ 3.</div>
-        <div class="line-clamp-3"><p class="hidden mt-2 md:block"> Ajude outros, deixe seu comentário.</p></div>
         <div class="flex mt-3 items-center">
             <div class="text-sm text-gray-500 dark:text-dark-350"><span>1868-01-01</span></div>
         </div>

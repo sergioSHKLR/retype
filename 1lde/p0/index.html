@@ -9,7 +9,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/retype-paginated">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.749786303545">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.749812249867">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -39,23 +39,38 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../favicon.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.5.0.749786303545" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.5.0.749812249867" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.749786303545" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.749812249867" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.749786303545" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.749812249867" data-turbo-eval="false" defer></script>
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-4SF4E30CW2"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
+      function gtag() { dataLayer.push(arguments); }
       gtag('js', new Date());
 
       gtag('config', 'G-4SF4E30CW2');
     </script>
 
+    <script type="application/json" class="js-hypothesis-config">
+    {
+    "showHighlights": true,
+    "openSidebar": true
+    }
+    </script>
+    <script async src="https://hypothes.is/embed.js"></script>
     <style>
+      #docs-app {
+        width: calc(100vw - 450px);
+      }
+
+      #docs-site-header>div {
+        margin-right: 300px;
+      }
+
       .spirit {
         background-color: aliceblue;
         padding: 5px 10px 5px 5px;
@@ -73,6 +88,7 @@
       h5 {
         border-bottom: 1px solid gainsboro;
         padding-bottom: 3px;
+        margin: 50px 0;
       }
 
       h6 {
@@ -80,8 +96,16 @@
         color: dimgrey !important;
       }
 
-    </style>
+    /*
+      blockquote::before {
+        content: "👻 "
+      }
+    */
 
+      em {
+        color: crimson !important
+      }
+    </style>
 </head>
 <body>
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=G-4SF4E30CW2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -294,13 +318,41 @@
 <p>As primeiras manifestações inteligentes se produziram por meio de mesas que se levantavam e, com um dos pés, davam certo número de pancadas, respondendo desse modo — <strong>sim</strong> ou <strong>não</strong> —, conforme fora convencionado, a uma pergunta feita. Até aí nada de convincente havia para os céticos, porquanto bem podiam crer que tudo fosse obra do acaso. Obtiveram-se depois respostas mais desenvolvidas com o auxílio das letras do alfabeto: dando o móvel um número de pancadas correspondente ao número de ordem de cada letra, chegava-se a formar palavras e frases que respondiam às questões propostas. A precisão das respostas e a correlação que denotavam com as perguntas causaram espanto. O ser misterioso que assim respondia, interrogado sobre a sua natureza, declarou que era <strong>Espírito</strong> ou <strong>Gênio</strong>, declinou um nome e prestou diversas informações a seu respeito. Há aqui uma circunstância muito importante, que se deve assinalar. É que ninguém imaginou os <strong>Espíritos</strong> como meio de explicar o fenômeno; foi o próprio fenômeno que revelou a palavra. Muitas vezes, tratando-se das ciências exatas, formulam-se hipóteses para dar-se uma base ao raciocínio. Não é aqui o caso.</p>
 <p>Tal meio de correspondência era, porém, demorado e incômodo. O Espírito (e isto constitui nova circunstância digna de nota) indicou outro. Foi um desses seres invisíveis quem aconselhou a adaptação de um lápis a uma cesta ou a outro objeto. Colocada em cima de uma folha de papel, a cesta é posta em movimento pela mesma potência oculta que move as mesas; mas, em vez de um simples movimento regular, o lápis traça por si mesmo caracteres formando palavras, frases, dissertações de muitas páginas sobre as mais altas questões de filosofia, de moral, de metafísica, de psicologia etc., e com tanta rapidez quanta se se escrevesse com a mão.</p>
 <p>O conselho foi dado simultaneamente na América, na França e em diversos outros países. Eis em que termos o deram em Paris, a 10 de junho de 1853, a um dos mais fervorosos adeptos da Doutrina e que, havia muitos anos, desde 1849, se ocupava com a evocação dos Espíritos:</p>
-<blockquote>
-<p><span class="docs-emoji">&#x1F47B;</span> ▸ Vai buscar, no aposento ao lado, a cestinha; amarra-lhe um lápis; coloca-a sobre o papel; põe-lhe os teus dedos sobre a borda.</p>
-</blockquote>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
+    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-blue-500 dark:text-blue-400" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
+                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                    <path fill="none" d="M0 0h24v24H0z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+<p>Vai buscar, no aposento ao lado, a cestinha; amarra-lhe um lápis; coloca-a sobre o papel; põe-lhe os teus dedos sobre a borda.</p>
+        </div>
+    </div>
+</div>
 <p>Alguns instantes após, a cesta entrou a mover-se e o lápis escreveu, muito legível, esta frase:</p>
-<blockquote>
-<p><span class="docs-emoji">&#x1F47B;</span> ▸ Proíbo expressamente que transmitas a quem quer que seja o que acabo de dizer. Da primeira vez que escrever, escreverei melhor.</p>
-</blockquote>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
+    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-blue-500 dark:text-blue-400" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
+                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                    <path fill="none" d="M0 0h24v24H0z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+<p>Proíbo expressamente que transmitas a quem quer que seja o que acabo de dizer. Da primeira vez que escrever, escreverei melhor.</p>
+        </div>
+    </div>
+</div>
 <p>O objeto a que se adapta o lápis, não passando de mero instrumento, completamente indiferentes são a natureza e a forma que tenha. Daí o haver-se procurado dar-lhe a disposição mais cômoda. Assim é que muita gente se serve de uma prancheta pequena.</p>
 <p>A cesta ou a prancheta só podem ser postas em movimento debaixo da influência de certas pessoas, dotadas, para isso, de um poder especial, as quais se designam pelo nome de médiuns, isto é — meios ou intermediários entre os Espíritos e os homens. As condições que dão esse poder resultam de causas ao mesmo tempo físicas e morais, ainda imperfeitamente conhecidas, porquanto há médiuns de todas as idades, de ambos os sexos e em todos os graus de desenvolvimento intelectual. É, todavia, uma faculdade que se desenvolve pelo exercício.</p>
 <doc-anchor-target id="intro-05">
@@ -447,10 +499,23 @@
 <p>A uma delas serve de base a linguagem de certos Espíritos, que não parece digna da elevação atribuída a seres sobrenaturais. Quem se reportar ao resumo da Doutrina acima apresentado, verá que os próprios Espíritos nos ensinam não haver entre eles igualdade de conhecimentos nem de qualidades morais, e que não se deve tomar ao pé da letra tudo quanto dizem. Às pessoas sensatas incumbe separar o bom do mau. Indubitavelmente, os que desse fato deduzem que só se comunicam conosco seres malfazejos, cuja única ocupação consista em nos mistificar, não conhecem as comunicações que se recebem nas reuniões em que só se manifestam Espíritos superiores; do contrário, assim não pensariam. É de lamentar que o acaso os tenha servido tão mal, que apenas lhes haja mostrado o lado mau do mundo espírita, pois nos repugna supor que uma tendência simpática atraia para eles, em vez dos bons Espíritos, os maus, os mentirosos, ou aqueles cuja linguagem é de revoltante grosseria. Poder-se-ia, quando muito, deduzir daí que a solidez dos princípios dessas pessoas não é bastante forte para preservá-las do mal e que; achando certo prazer em lhes satisfazerem a curiosidade, os maus Espíritos disso se aproveitam para se aproximar delas, enquanto os bons se afastam.</p>
 <p>Julgar a questão dos Espíritos por esses fatos seria tão pouco lógico, quanto julgar do caráter de um povo pelo que se diz e faz numa reunião de desatinados ou de gente de má nota, com os quais não entretêm relações as pessoas circunspectas nem as sensatas. Os que assim julgam se colocam na situação do estrangeiro que, chegando a uma grande capital pelo mais abjeto dos seus arrabaldes, julgasse de todos os habitantes pelos costumes e linguagem desse bairro ínfimo. No mundo dos Espíritos também há uma sociedade boa e uma sociedade má; dignem-se, os que daquele modo se pronunciam, de estudar o que se passa entre os Espíritos de escol e se convencerão de que a cidade celeste não contém apenas a escória popular.</p>
 <p>Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiqueis no subúrbio; vede, observai e julgareis; os fatos aí estão para todo o mundo. A menos que lhes sejam aplicáveis estas palavras de Jesus:</p>
-<blockquote>
-<p><span class="docs-emoji">&#x271D;&#xFE0F;</span> ▸ <em>Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.</em></p>
-<p><strong>Mateus, cap. 13, vers. 14, ARC</strong></p>
-</blockquote>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-yellow-500"></div>
+    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-yellow-500" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M22.48 15.59L14.01 1.45A2.968 2.968 0 0012.16.09c-.78-.19-1.58-.07-2.27.35-.41.25-.76.6-1.01 1.01v.01L.4 15.6c-.83 1.43-.33 3.27 1.1 4.1.45.26.95.4 1.48.4h16.95c.8-.01 1.55-.33 2.11-.9.56-.57.87-1.33.86-2.13a3.04 3.04 0 00-.42-1.48zm-1.87 2.21c-.19.19-.44.3-.69.3H2.99c-.17 0-.34-.05-.49-.13a.992.992 0 01-.37-1.35L10.6 2.48c.08-.14.2-.25.34-.33a.992.992 0 011.37.33l8.46 14.13c.09.15.13.32.13.49 0 .26-.1.51-.29.7z"></path>
+                    <path d="M11.45 12.1c.55 0 1-.45 1-1v-4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 .56.45 1 1 1zM11.46 14.1c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+<p><em>Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.</em></p>
+<p>Mateus, cap. 13, vers. 14, ARC</p>
+        </div>
+    </div>
+</div>
 <p>Como variante dessa opinião, temos a dos que não veem, nas comunicações espíritas e em todos os fatos materiais a que elas dão lugar, mais do que a intervenção de uma potência diabólica, novo Proteu que revestiria todas as formas, para melhor nos enganar. Não a julgamos suscetível de exame sério, por isso não nos demoramos em considerá-la. Aliás, ela está refutada pelo que acabamos de dizer. Acrescentaremos, tão somente, que, se assim fosse, forçoso seria convir em que o diabo é às vezes bastante criterioso e ponderado, sobretudo, muito moral; ou, então, em que há bons diabos.</p>
 <p>Efetivamente, como acreditar que Deus só ao Espírito do mal permita que se manifeste, para perder-nos, sem nos dar por contrapeso os conselhos dos bons Espíritos? Se Ele não o pode fazer, não é onipotente; se pode e não o faz, desmente a sua bondade. Ambas as suposições seriam blasfemas. Note-se que admitir a comunicação dos maus Espíritos é reconhecer o princípio das manifestações. Ora, se elas se dão, não pode deixar de ser com a permissão de Deus. Como, então, se há de acreditar, sem impiedade, que Ele só permita o mal, com exclusão do bem? Semelhante doutrina é contrária às mais simples noções do bom senso e da religião.</p>
 <doc-anchor-target id="intro-11">
@@ -556,7 +621,7 @@
 <p>No número dos Espíritos que concorreram para a execução desta obra, muitos se contam que viveram, em épocas diversas, na Terra, onde pregaram e praticaram a virtude e a sabedoria. Outros, pelos seus nomes, não pertencem a nenhuma personagem, cuja lembrança a História guarde, mas cuja elevação é atestada pela pureza de seus ensinamentos e pela união em que se acham com os que usam de nomes venerados.</p>
 <p>Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de escrever este livro:</p>
 <blockquote>
-<p><span class="docs-emoji">&#x1F47B;</span> ▸ Ocupa-te, cheio de zelo e perseverança, do trabalho que empreendeste com o nosso concurso, pois esse trabalho é nosso. Nele pusemos as bases de um novo edifício que se eleva e que um dia há de reunir todos os homens num mesmo sentimento de amor e caridade. Mas, antes de o divulgares, revê-lo-emos juntos, a fim de lhe verificarmos todas as minúcias.</p>
+<p>Ocupa-te, cheio de zelo e perseverança, do trabalho que empreendeste com o nosso concurso, pois esse trabalho é nosso. Nele pusemos as bases de um novo edifício que se eleva e que um dia há de reunir todos os homens num mesmo sentimento de amor e caridade. Mas, antes de o divulgares, revê-lo-emos juntos, a fim de lhe verificarmos todas as minúcias.</p>
 <p>Estaremos contigo sempre que o pedires, para te ajudarmos nos teus trabalhos, porquanto esta é apenas uma parte da missão que te está confiada e que já um de nós te revelou.</p>
 <p>Entre os ensinos que te são dados, alguns há que deves guardar para ti somente, até nova ordem. Quando chegar o momento de os publicares, nós to diremos. Enquanto esperas, medita sobre eles, a fim de estares pronto quando te dissermos.</p>
 <p>Porás no cabeçalho do livro a cepa que te desenhamos [^3], porque é o emblema do trabalho do Criador. Aí se acham reunidos todos os princípios materiais que melhor podem representar o corpo e o espírito. O corpo é a cepa; o espírito é o licor; a alma ou espírito ligado à matéria é o bago. O homem quintessencia o espírito pelo trabalho e tu sabes que só mediante o trabalho do corpo o Espírito adquire conhecimentos.</p>
@@ -566,24 +631,6 @@
 <p>Lembra-te de que os bons Espíritos só dispensam assistência aos que servem a Deus com humildade e desinteresse e que repudiam a todo aquele que busca na senda do Céu um degrau para conquistar as coisas da Terra; que se afastam do orgulhoso e do ambicioso. O orgulho e a ambição serão sempre uma barreira erguida entre o homem e Deus. São um véu lançado sobre as claridades celestes, e Deus não pode servir-se do cego para fazer perceptível a luz.</p>
 <p><strong>João Evangelista, Santo Agostinho, São Vicente de Paulo, São Luís, O Espírito da Verdade, Sócrates, Platão, Fénelon, Franklin, Swedenborg, entre outros.</strong></p>
 </blockquote>
-<hr>
-<p><svg xmlns="http://www.w3.org/2000/svg" class="docs-icon" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><g><path d="M1.75 1h12.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 14.25 14H8.061l-2.574 2.573A1.458 1.458 0 0 1 3 15.543V14H1.75A1.75 1.75 0 0 1 0 12.25v-9.5C0 1.784.784 1 1.75 1ZM1.5 2.75v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Z"/><path d="M22.5 8.75a.25.25 0 0 0-.25-.25h-3.5a.75.75 0 0 1 0-1.5h3.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 22.25 20H21v1.543a1.457 1.457 0 0 1-2.487 1.03L15.939 20H10.75A1.75 1.75 0 0 1 9 18.25v-1.465a.75.75 0 0 1 1.5 0v1.465c0 .138.112.25.25.25h5.5a.75.75 0 0 1 .53.22l2.72 2.72v-2.19a.75.75 0 0 1 .75-.75h2a.25.25 0 0 0 .25-.25v-9.5Z"/></g></g></svg> Ajude outros, deixe seu comentário.</p>
-<script src="https://giscus.app/client.js"
-        data-repo="sergioSHKLR/retype-paginated"
-        data-repo-id="R_kgDOKbu7JQ"
-        data-category="[ENTER CATEGORY NAME HERE]"
-        data-category-id="[ENTER CATEGORY ID HERE]"
-        data-mapping="url"
-        data-strict="0"
-        data-reactions-enabled="0"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="preferred_color_scheme"
-        data-lang="pt"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
 
                                 <div class="flex items-center mt-6 mb-6 clear-both">
                                     <span>
@@ -619,7 +666,7 @@
                                         <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../1lde/p1/">
                                             <span>
                                                 <span class="block text-xs font-normal text-right text-gray-400 dark:text-dark-400">Próximo</span>
-                                                <span class="block mt-1">🗂️ 1. Das causas primárias</span>
+                                                <span class="block mt-1">🗂️ 1. Causas primárias</span>
                                             </span>
                                             <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
                                         </a>
