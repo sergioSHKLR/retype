@@ -9,7 +9,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/retype-paginated">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.749812249867">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.749834000001">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -34,11 +34,11 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="/retype-paginated/favicon.png" rel="icon">
-    <link href="/retype-paginated/resources/css/retype.css?v=3.5.0.749812249867" rel="stylesheet">
+    <link href="/retype-paginated/resources/css/retype.css?v=3.5.0.749834000001" rel="stylesheet">
 
-    <script data-cfasync="false" src="/retype-paginated/resources/js/config.js?v=3.5.0.749812249867" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="/retype-paginated/resources/js/config.js?v=3.5.0.749834000001" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="/retype-paginated/resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="/retype-paginated/resources/js/lunr.js?v=3.5.0.749812249867" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="/retype-paginated/resources/js/lunr.js?v=3.5.0.749834000001" data-turbo-eval="false" defer></script>
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-4SF4E30CW2"></script>
@@ -49,23 +49,35 @@
 
       gtag('config', 'G-4SF4E30CW2');
     </script>
-
+    <!--
     <script type="application/json" class="js-hypothesis-config">
     {
     "showHighlights": true,
     "openSidebar": true
     }
     </script>
-    <script async src="https://hypothes.is/embed.js"></script>
+    <script async src="https://hypothes.is/embed.js"></script> -->
     <style>
-      #docs-app {
-        width: calc(100vw - 450px);
+    /*
+      @media only screen and (orientation: landscape) and (min-width: 1054px) {
+
+        #docs-app {
+          width: calc(100vw - 450px);
+        }
+
+        #docs-site-header>div {
+          margin-right: 300px;
+        }
       }
 
       #docs-site-header>div {
-        margin-right: 300px;
+        margin-right: 50px;
       }
 
+      html {
+        margin-right: 50px;
+      }
+    */
       .spirit {
         background-color: aliceblue;
         padding: 5px 10px 5px 5px;
@@ -91,7 +103,7 @@
         color: dimgrey !important;
       }
 
-    /*
+      /*
       blockquote::before {
         content: "👻 "
       }
