@@ -64,3 +64,21 @@ integrations:
     id: 6251979624
   googleTagManager:
     id: G-4SF4E30CW2
+
+#links:
+#    
+#  - text: LDE
+#    link: ./1lde/
+#    icon: ":ghost:"
+#  - text: LDM
+#    link: ./2ldm/
+#    icon: ":black_nib:"
+#  - text: ESE
+#    link: ./3ese/
+#    icon: ":dove_of_peace:"
+#  - text: CEU
+#    link: ./4ceu/
+#    icon: ":fire:"
+#  - text: GEN
+#    link: ./5gen/
+#    icon: ":seedling:"
