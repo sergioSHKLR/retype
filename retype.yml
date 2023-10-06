@@ -65,7 +65,7 @@ integrations:
   googleTagManager:
     id: G-4SF4E30CW2
 
-#links:
+# links:
 #    
 #  - text: LDE
 #    link: ./1lde/
