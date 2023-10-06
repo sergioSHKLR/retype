@@ -14,7 +14,9 @@ tags: [sergioSHKLR]
 date: 2023-10-03
 ---
 
-Inspirado em outras iniciativas de ensino digital, tais como Kardecpedia e Portal Luz Espírita, decidimos criar uma que permitisse ao estudante a consulta direta de fontes complementares sem que seu foco se perdesse ao navegar em janelas externas. Para tal fim estamos desenvolvendo uma interface inédita, mesclando ferramentas de leitura comuns em apps como Kindle e Adode Acrobat (ajuste de contraste, tipo e tamanho de fonte, dicionário, pesquisa, etc) com fontes de conhecimento e mídia pública (Wikipédia e afins) agregando artigos, imagens, vídeos e mapas ao texto original dos:
+||| Conteúdo
+
+Inspirado em outras iniciativas de ensino digital, tais como [Kardecpedia](https://kardecpedia.com/pt){target="ext"} e [Portal Luz Espírita](https://www.luzespirita.org.br/){target="ext"}, decidimos criar uma que permitisse ao estudante a consulta direta de fontes complementares sem que seu foco se perdesse ao navegar em janelas externas. Para tal fim estamos desenvolvendo uma interface inédita, mesclando ferramentas de leitura comuns em apps como Kindle e Adode Acrobat (ajuste de contraste, tipo e tamanho de fonte, dicionário, pesquisa, etc) com fontes de conhecimento e mídia pública (Wikipédia e afins) agregando artigos, imagens, vídeos e mapas ao texto original dos:
 
 - Espíritos,
 - Allan Kardec, e da
@@ -39,3 +41,9 @@ Para tal fim, use o menu, as setas de navegação ou os links abaixo.
 - 🌱 [A Gênese](./5gen/p0/)
 
 Por fim, necessitamos de programadores front-end e full-stack. Caso queira contribuir com este projeto, entre em contato pelo Github.
+
+||| Externo
+
+<iframe name="ext" src="https://sergioshklr.github.io/retype-paginated/ext.html" style="width: 100%; height: 100vw;"></iframe>
+
+|||
