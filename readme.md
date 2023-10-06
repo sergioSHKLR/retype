@@ -42,7 +42,7 @@ Para tal fim, use o menu, as setas de navegação ou os links abaixo.
 
 Por fim, necessitamos de programadores front-end e full-stack. Caso queira contribuir com este projeto, entre em contato pelo Github.
 
-||| [!badge Referências]&nbsp;&nbsp;&nbsp;[:icon-globe:](https://pt.m.wikipedia.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-book:](https://pt.m.wiktionary.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-project-roadmap:](https://notepad.js.org/){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-location:](https://sergioshklr.github.io/retype-paginated/3ese/p1/maps/blank.html){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-eye-closed:](https://sergioshklr.github.io/retype-paginated/blank){target="ext"}
+||| [!badge Referências]&nbsp;&nbsp;&nbsp;[:icon-globe:](https://pt.m.wikipedia.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-book:](https://pt.m.wiktionary.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-project-roadmap:](https://notepad.js.org/){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-location:](https://www.openstreetmap.org/export/embed.html?bbox=-11.447753906250002%2C44.84029065139799%2C7.778320312500001%2C52.5897007687178&amp;layer=mapnik){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-eye-closed:](https://sergioshklr.github.io/retype-paginated/blank){target="ext"}
 
 
 
