@@ -7,16 +7,16 @@ start:
 input: .
 output: .retype
 locale: pt
-url: https://sergioshklr.github.io/retype-paginated/
+url: https://sergioshklr.github.io/retype/
 branding:
   title: 💧 doutrina.org
-  label: v3.10
+  label: alpha
 footer:
-  copyright: Alguns direitos reservados
+  copyright: doutrina.org e shklr.org, nenhum direito reservado
   links:
 
     - text: Edite
-      link: https://github.com/sergioSHKLR/retype-paginated
+      link: https://github.com/sergioSHKLR/retype
       icon: pencil 
 
     - text: Avisos legais

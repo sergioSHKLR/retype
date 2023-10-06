@@ -1,5 +1,6 @@
 ---
-label: 🗂️ 2. Exemplos
+icon: ":card_index_dividers:"
+label: 2⠠ Exemplos
 layout: default
 order: 100
 author:

@@ -1,5 +1,6 @@
 ---
-label: 🗂️ 1. Doutrina
+icon: ":card_index_dividers:"
+label: 1⠠ Doutrina
 layout: default
 order: 200
 author:

@@ -1,5 +1,6 @@
 ---
-label: 🗂️ 1. Miolo
+icon: ":card_index_dividers:"
+label: 1⠠ Miolo
 layout: default
 order: 100
 author:

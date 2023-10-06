@@ -1,5 +1,6 @@
 ---
-label: 🗂️ 1. Noções Preliminares
+icon: ":card_index_dividers:"
+label: 1⠠ Noções Preliminares
 layout: default
 order: 200
 author:

@@ -1,6 +1,6 @@
 ---
 icon: ":card_index_dividers:"
-label: 1. A Gênese segundo o Espiritismo
+label: 1⠠ A Gênese segundo o Espiritismo
 layout: default
 order: 300
 author:

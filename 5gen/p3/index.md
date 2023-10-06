@@ -1,6 +1,6 @@
 ---
 icon: ":card_index_dividers:"
-label: 3. As predições segundo o Espiritismo
+label: 3⠠ As predições segundo o Espiritismo
 layout: default
 order: 100
 author:

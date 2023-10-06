@@ -1,5 +1,6 @@
 ---
-label: 🗂️ 0. Pré-textual
+icon: ":card_index_dividers:"
+label: 0⠠ Pré-textual
 layout: default
 order: 300
 author:
