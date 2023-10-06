@@ -13,6 +13,8 @@ tags: [obras básicas, allan kardec]
 date: 1857-04-18
 ---
 
+||| [!badge Obra]
+
 ### 📑 01. Das penas e gozos terrestres
 
 #### 📄 Felicidade e infelicidade relativas
@@ -925,3 +927,8 @@ Poderá jamais implantar-se na Terra o reinado do bem?
 >
 > **São Luís**
 
+||| [!badge Referências]&nbsp;&nbsp;&nbsp;[:icon-globe:](https://pt.m.wikipedia.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-book:](https://pt.m.wiktionary.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-eye-closed:](https://sergioshklr.github.io/retype-paginated/blank){target="ext"}
+
+<iframe name="ext" src="" style="width: 100%; height: 100vh;"></iframe>
+
+|||

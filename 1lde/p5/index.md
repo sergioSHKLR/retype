@@ -13,6 +13,8 @@ tags: [obras básicas, allan kardec]
 date: 1857-04-18
 ---
 
+||| [!badge Obra]
+
 ### 📄 Conclusão 01
 
 Quem, de magnetismo terrestre, apenas conhecesse o brinquedo dos patinhos imantados que, sob a ação do ímã, se movimentam em todas as direções numa bacia com água, dificilmente poderia compreender que ali está o segredo do mecanismo do Universo e da marcha dos mundos. O mesmo se dá com quem, do Espiritismo, apenas conhece o movimento das mesas, no qual só vê um divertimento, um passatempo, sem compreender que esse fenômeno tão simples e vulgar, que a antiguidade e até povos semisselvagens conheceram, possa ter ligação com as mais graves questões da ordem social. Efetivamente, para o observador superficial, que relação pode ter com a moral e o futuro da Humanidade uma mesa que se move? Quem quer, porém, que reflita se lembrará de que de uma simples panela a ferver e cuja tampa se erguia continuamente, fato que também ocorre desde toda a antiguidade, saiu o possante motor com que o homem transpõe o espaço e suprime as distâncias. Pois bem! sabei, vós que não credes senão no que pertence ao mundo material, que dessa mesa, que gira e vos faz sorrir desdenhosamente, saiu uma ciência, assim como a solução dos problemas que nenhuma filosofia pudera ainda resolver. Apelo para todos os adversários de boa-fé e os adjuro a que digam se se deram ao trabalho de estudar o que criticam. Porque, em boa lógica, a crítica só tem valor quando o crítico é conhecedor daquilo de que fala. Zombar de uma coisa que se não conhece, que se não sondou com o escalpelo do observador consciencioso, não é criticar, é dar prova de leviandade e triste mostra de falta de critério. Certamente que, se houvéssemos apresentado esta filosofia como obra de um cérebro humano, menos desdenhoso tratamento encontraria e teria merecido as honras do exame dos que pretendem dirigir a opinião. Vem ela, porém, dos Espíritos. Que absurdo! Mal lhe dispensam um simples olhar. Julgam-na pelo título, como o macaco da fábula julgava da noz pela casca. Fazei, se quiserdes, abstração da sua origem. Suponde que este livro é obra de um homem e dizei, do íntimo e em consciência, se, depois de o terdes lido **seriamente**, achais nele matéria para zombaria.
@@ -93,3 +95,9 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 > 👻 ▸ Por bem largo tempo, os homens se têm estraçalhado e anatematizado mutuamente em nome de um Deus de paz e misericórdia, ofendendo-o com semelhante sacrilégio. O Espiritismo é o laço que um dia os unirá, porque lhes mostrará onde está a verdade, onde o erro. Durante muito tempo, porém, ainda haverá escribas e fariseus que o negarão, como negaram o Cristo. Quereis saber sob a influência de que Espíritos estão as diversas seitas que entre si fizeram partilha do mundo? Julgai-o pelas suas obras e pelos seus princípios. Jamais os bons Espíritos foram os instigadores do mal; jamais aconselharam ou legitimaram o assassínio e a violência; jamais estimularam os ódios dos partidos, nem a sede das riquezas e das honras, nem a avidez dos bens da Terra. Os que são bons, humanitários e benevolentes para com todos, esses os seus prediletos e prediletos de Jesus, porque seguem a estrada que este lhes indicou para chegarem até Ele.
 >
 > **Santo Agostinho**
+
+||| [!badge Referências]&nbsp;&nbsp;&nbsp;[:icon-globe:](https://pt.m.wikipedia.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-book:](https://pt.m.wiktionary.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-eye-closed:](https://sergioshklr.github.io/retype-paginated/blank){target="ext"}
+
+<iframe name="ext" src="" style="width: 100%; height: 100vh;"></iframe>
+
+|||

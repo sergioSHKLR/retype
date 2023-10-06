@@ -13,6 +13,8 @@ tags: [allan kardec, obras básicas]
 date: 1857-04-18
 ---
 
+||| [!badge Obra]
+
 - 📑 Introdução
   - 📄 [Intro 01](./c03-01.md)
   - 📄 [Intro 02](./c03-02.md)
@@ -31,3 +33,9 @@ date: 1857-04-18
   - 📄 [Intro 15](./c03-14.md)
   - 📄 [Intro 16](./c03-15.md)
   - 📄 [Intro 17](./c03-17.md)
+
+||| [!badge Referências]&nbsp;&nbsp;&nbsp;[:icon-globe:](https://pt.m.wikipedia.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-book:](https://pt.m.wiktionary.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-eye-closed:](https://sergioshklr.github.io/retype-paginated/blank){target="ext"}
+
+<iframe name="ext" src="" style="width: 100%; height: 100vh;"></iframe>
+
+|||

@@ -13,6 +13,8 @@ tags: [allan kardec, obras básicas]
 date: 1857-04-18
 ---
 
+||| [!badge Obra]
+
 ### 📑 01. De Deus
 
 #### 📄 01. Deus e o infinito
@@ -580,3 +582,9 @@ O instinto é uma inteligência rudimentar, que difere da inteligência propriam
 
 O instinto varia em suas manifestações, conforme as espécies e as suas necessidades. Nos seres que têm a consciência e a percepção das coisas exteriores, ele se alia à inteligência, isto é, à vontade e à liberdade.
 ==-
+
+||| [!badge Referências]&nbsp;&nbsp;&nbsp;[:icon-globe:](https://pt.m.wikipedia.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-book:](https://pt.m.wiktionary.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-eye-closed:](https://sergioshklr.github.io/retype-paginated/blank){target="ext"}
+
+<iframe name="ext" src="" style="width: 100%; height: 100vh;"></iframe>
+
+|||
