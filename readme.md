@@ -44,6 +44,6 @@ Por fim, necessitamos de programadores front-end e full-stack. Caso queira contr
 
 ||| Externo
 
-<iframe name="ext" src="https://sergioshklr.github.io/retype-paginated/ext.html" style="width: 100%; height: 100vw;"></iframe>
+<iframe name="ext" src="https://sergioshklr.github.io/retype-paginated/ext.html" style="width: 100%; height: 100%;"></iframe>
 
 |||
