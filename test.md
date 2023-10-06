@@ -5,16 +5,22 @@ layout: central
 visibility: hidden
 ---
 
-||| Conteúdo
+||| Obra
 
 [link](https://en.m.wikipedia.org){target="ext"}
 
 
-||| Externo
+||| Referências [:icon-globe:](https://pt.m.wikipedia.org){target="ext"} |  [:icon-book:](https://pt.m.wiktionary.org){target="ext"} | [:icon-eye-closed:](){target="ext"}
 
-<iframe name="ext" src="https://pt.m.wikipedia.org/wiki/Espiritismo" style="width: 100%; height: 100vw;"></iframe>
+<iframe name="ext" src="" style="width: 100%; height: 100vw;"></iframe>
 
 |||
+
+
+
+
+
+
 
 
 ### 📑 01. De Deus
