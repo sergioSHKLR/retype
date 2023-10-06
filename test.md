@@ -5,14 +5,11 @@ layout: central
 visibility: hidden
 ---
 
-||| Obra
+||| [!badge Obra]
 
-[link](https://en.m.wikipedia.org){target="ext"}
+||| [!badge Referências]&nbsp;&nbsp;&nbsp;[:icon-globe:](https://pt.m.wikipedia.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-book:](https://pt.m.wiktionary.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-eye-closed:](https://sergioshklr.github.io/retype-paginated/blank){target="ext"}
 
-
-||| Referências&nbsp;&nbsp;&nbsp;[:icon-globe:](https://pt.m.wikipedia.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-book:](https://pt.m.wiktionary.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-eye-closed:](https://sergioshklr.github.io/retype-paginated/blank){target="ext"}
-
-<iframe name="ext" src="" style="width: 100%; height: 100vw;"></iframe>
+<iframe name="ext" src="" style="width: 100%; height: 100%;"></iframe>
 
 |||
 
