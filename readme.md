@@ -42,7 +42,13 @@ Para tal fim, use o menu, as setas de navegação ou os links abaixo.
 
 Por fim, necessitamos de programadores front-end e full-stack. Caso queira contribuir com este projeto, entre em contato pelo Github.
 
-||| [!badge Referências]&nbsp;&nbsp;&nbsp;[:icon-globe:](https://pt.m.wikipedia.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-book:](https://pt.m.wiktionary.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-eye-closed:](https://sergioshklr.github.io/retype-paginated/blank){target="ext"}
+||| [!badge Referências]&nbsp;&nbsp;&nbsp;[:icon-globe:](https://pt.m.wikipedia.org){target="ext"}
+
+&nbsp;&nbsp;&nbsp;[:icon-book:](https://pt.m.wiktionary.org){target="ext"}
+
+&nbsp;&nbsp;&nbsp;[:icon-project-roadmap:](https://sergioshklr.github.io/retype-paginated/hypo){target="ext"}
+
+&nbsp;&nbsp;&nbsp;[:icon-eye-closed:](https://sergioshklr.github.io/retype-paginated/blank){target="ext"}
 
 <iframe name="ext" src="" style="width: 100%; height: 100vh;"></iframe>
 
