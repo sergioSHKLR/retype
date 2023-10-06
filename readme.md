@@ -44,6 +44,6 @@ Por fim, necessitamos de programadores front-end e full-stack. Caso queira contr
 
 ||| [!badge Referências]&nbsp;&nbsp;&nbsp;[:icon-globe:](https://pt.m.wikipedia.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-book:](https://pt.m.wiktionary.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-eye-closed:](https://sergioshklr.github.io/retype-paginated/blank){target="ext"}
 
-<iframe name="ext" src="" style="width: 100%; height: 100%;"></iframe>
+<iframe name="ext" src="" style="width: 100%; height: 100vh;"></iframe>
 
 |||
