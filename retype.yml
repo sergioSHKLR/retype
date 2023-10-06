@@ -3,6 +3,13 @@
 # -----------------------------------------------------------------------------
 start:
   open: true
+  pro: true
+
+breadcrumb:
+  enabled: true
+
+outbound:
+  enabled: false
 
 input: .
 output: .retype

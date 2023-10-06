@@ -18,9 +18,9 @@ date: 2023-10-03
 
 Inspirado em outras iniciativas de ensino digital, tais como [Kardecpedia](https://kardecpedia.com/pt){target="ext"} e [Portal Luz Espírita](https://www.luzespirita.org.br/){target="ext"}, decidimos criar uma que permitisse ao estudante a consulta direta de fontes de referência sem que seu foco se perdesse ao navegar em janelas externas. Para tal fim estamos desenvolvendo uma interface inédita, mesclando ferramentas de leitura comuns em apps como Kindle e Adode Acrobat (ajuste de contraste, tipo e tamanho de fonte, dicionário, pesquisa, etc) com fontes de conhecimento e mídia pública (Wikipédia e afins) agregando artigos, imagens, vídeos e mapas ao texto original dos:
 
-- Espíritos,
-- Allan Kardec, e da
-- bíblia.
+- :ghost: Espíritos,
+- :older_man: Allan Kardec, e da
+- :latin_cross: bíblia.
 
 Usaremos também de emojis, cores, tipografia e diagramação moderna, sem alterar a mensagem mas facilitando o seu estudo e assimilação.
 
