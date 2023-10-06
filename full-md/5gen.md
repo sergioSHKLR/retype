@@ -1,5 +1,6 @@
 ---
-label: 📓 A Gênese
+icon: ":seedling:"
+label: A Gênese
 layout: default
 order: 100
 author:
@@ -48,7 +49,7 @@ Esta nova obra é mais um passo dado para as consequências e aplicações do Es
 
 ## 🗂️ 1 - A Gênese segundo o Espiritismo
 
-### 📑 01 -  Caráter da revelação espírita
+### 📑 01 - Caráter da revelação espírita
 
 ##### #️⃣ 01
 
@@ -681,7 +682,7 @@ Até o presente, o estudo do princípio espiritual, compreendido na Metafísica,
 
 Estando o mundo espiritual e o mundo material em incessante contato, os dois são solidários um com o outro; ambos têm a sua parcela de ação na Gênese. Sem o conhecimento das leis que regem o primeiro, tão impossível seria constituir-se uma Gênese completa, quanto a um estatuário dar vida a uma estátua. Somente agora, conquanto nem a Ciência material, nem a Ciência espiritual hajam dito a última palavra, possui o homem os dois elementos próprios a lançar luz sobre esse imenso problema. Eram-lhe absolutamente indispensáveis essas duas chaves para chegar a uma solução, ainda que aproximativa.
 
-### 📑 05 -  Antigos e modernos sistemas do mundo
+### 📑 05 - Antigos e modernos sistemas do mundo
 
 ##### #️⃣ 01
 

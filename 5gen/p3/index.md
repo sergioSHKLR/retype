@@ -1,5 +1,6 @@
 ---
-label: 🗂️ 3.
+icon: ":card_index_dividers:"
+label: 3. As predições segundo o Espiritismo
 layout: default
 order: 100
 author:
@@ -11,3 +12,5 @@ edit:
 tags: [obras básicas, allan kardec]
 date: 1868-01-01
 ---
+
+

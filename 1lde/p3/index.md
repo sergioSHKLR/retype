@@ -1,6 +1,6 @@
 ---
 icon: ":card_index_dividers:"
-label: 3 - Das leis morais
+label: 3⡀ Das leis morais
 layout: default
 order: 300
 author:

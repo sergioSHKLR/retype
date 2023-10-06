@@ -1,5 +1,6 @@
 ---
-label: 🗂️ 2.
+icon: ":card_index_dividers:"
+label: 2. Os milagres segundo o Espiritismo
 layout: default
 order: 200
 author:
@@ -11,3 +12,5 @@ edit:
 tags: [obras básicas, allan kardec]
 date: 1868-01-01
 ---
+
+
