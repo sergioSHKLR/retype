@@ -13,25 +13,26 @@ tags: [obras básicas, allan kardec]
 date: 1861-01-01
 ---
 
+||| [!badge Obra]
+
 ### 📄 Folha de rosto
 
 :::content-center
 Espiritismo Experimental
 
-[📙 **O Livro dos Médiuns**](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Médiuns){:target="ext"}
+:black_nib: [O Livro dos Médiuns](https://pt.m.wikipedia.org/wiki/O_Livro_dos_Médiuns){target="ext"}
 
-Ensino especial dos Espíritos sobre a teoria de todos os gêneros de manifestações, os meios de comunicação com o mundo invisível, o desenvolvimento da mediunidade, as dificuldades e os tropeços que se podem encontrar na prática do Espiritismo, constituindo o seguimento de [📘 **O Livro dos Espíritos**](https://pt.m.wikipedia.org/wiki/O_Evangelho_segundo_o_Espiritismo){:target="ext"}.
+Ensino especial dos Espíritos sobre a teoria de todos os gêneros de manifestações, os meios de comunicação com o mundo invisível, o desenvolvimento da mediunidade, as dificuldades e os tropeços que se podem encontrar na prática do Espiritismo, constituindo o seguimento de :ghost: [O Livro dos Espíritos](https://pt.m.wikipedia.org/wiki/O_Evangelho_segundo_o_Espiritismo){target="ext"}.
 
-por [**Allan Kardec**](https://pt.m.wikipedia.org/wiki/Allan_Kardec){:target="ext"}.
+por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec){target="ext"}.
 
-Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro)
-{:target="ext"}
+Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro){target="ext"}
 
-Baseado no original [ISBN 978-85-7328-729-5](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Mediuns_Guillon.pdf){:target="ext"}
+Baseado no original [ISBN 978-85-7328-729-5](http://www.febnet.org.br/wp-content/uploads/2014/05/Livro-dos-Mediuns_Guillon.pdf){target="_blank_"}
 
 Modificado para o consumo digital por Sergio de
 
-[⭕ shklr.org](https://shklr.org)
+[⭕ shklr.org](https://shklr.org){target="_blank_"}
 :::
 
 ### 📑 Introdução
@@ -59,3 +60,10 @@ Verão, aí, os óbices com que poderão deparar e terão também um meio de evi
 Importantes alterações para melhor foram introduzidas nesta segunda edição, muito mais completa do que a primeira. Acrescentando-lhe grande número de notas e instruções do maior interesse, os Espíritos a corrigiram, com particular cuidado. Como reviram tudo, aprovando-a ou modificando-a à sua vontade, pode dizer-se que ela é, em grande parte, obra deles, porquanto a intervenção que tiveram não se limitou aos artigos que trazem assinaturas. São poucos esses artigos, porque apenas apusemos nomes quando isso nos pareceu necessário, para assinalar que algumas citações um tanto extensas provieram deles textualmente. A não ser assim, houvéramos de citá-los quase que em todas as páginas, especialmente em seguida a todas as respostas dadas às perguntas que lhes foram feitas, o que se nos afigurou de nenhuma utilidade. Os nomes, como se sabe, importam pouco em tais assuntos. O essencial é que o conjunto do trabalho corresponda ao fim que colimamos. O acolhimento dado à primeira edição, posto que imperfeita, faz-nos esperar que a presente não encontre menos receptividade.
 
 Como lhe acrescentamos muitas coisas e muitos capítulos inteiros, suprimimos alguns artigos, que ficariam em duplicata, entre outros o que tratava da **Escala espírita**, que já se encontra em **👻 O Livro dos Espíritos**. Suprimimos igualmente do Vocabulário o que não se ajustava bem no quadro desta obra, substituindo vantajosamente o que foi supresso por coisas mais práticas. Esse vocabulário, além do mais, não estava completo e tencionamos publicá-lo mais tarde, em separado, sob o formato de um pequeno dicionário de filosofia espírita. Conservamos nesta edição apenas as palavras novas ou especiais, pertinentes aos assuntos de que nos ocupamos.
+
+
+||| [!badge Ref.]&nbsp;&nbsp;&nbsp;[:icon-globe:](https://pt.m.wikipedia.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-book:](https://pt.m.wiktionary.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-location:](https://www.openstreetmap.org/export/embed.html?bbox=-11.447753906250002%2C44.84029065139799%2C7.778320312500001%2C52.5897007687178&amp;layer=mapnik){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-eye-closed:](https://sergioshklr.github.io/retype/blank){target="ext"}
+
+<iframe name="ext" src="" style="width: 100%; height: 100vh;"></iframe>
+
+|||

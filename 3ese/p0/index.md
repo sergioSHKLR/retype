@@ -13,27 +13,28 @@ tags: [obras básicas, allan kardec]
 date: 1864-04-01
 ---
 
+||| [!badge Obra]
+
 ### 📄 Folha de rosto
 
 :::content-center
 Ética Espírita
 
-[📗 **O Evangelho segundo o Espiritismo**](https://pt.m.wikipedia.org/wiki/O_Evangelho_segundo_o_Espiritismo){:target="ext"}
+:dove_of_peace: [O Evangelho segundo o Espiritismo](https://pt.m.wikipedia.org/wiki/O_Evangelho_segundo_o_Espiritismo){target="ext"}
 
 Com a explicação das máximas morais do Cristo em concordância com o Espiritismo e suas aplicações às diversas circunstâncias da vida.
 
 Fé inabalável só o é a que pode encarar frente a frente a razão, em todas as épocas da humanidade.
 
-por [**Allan Kardec**](https://pt.m.wikipedia.org/wiki/Allan_Kardec){:target="ext"}.
+por [Allan Kardec](https://pt.m.wikipedia.org/wiki/Allan_Kardec){target="ext"}.
 
-Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro)
-{:target="ext"}
+Tradução de [Guillon Ribeiro](https://pt.m.wikipedia.org/wiki/Guillon_Ribeiro){target="ext"}
 
-Baseado no original [ISBN 978-85-7328-730-1](http://www.febnet.org.br/wp-content/uploads/2014/05/O-evangelho-segundo-o-espiritismo.pdf){:target="ext"}
+Baseado no original [ISBN 978-85-7328-730-1](http://www.febnet.org.br/wp-content/uploads/2014/05/O-evangelho-segundo-o-espiritismo.pdf){target="_blank"}
 
 Modificado para o consumo digital por Sergio de
 
-[⭕ shklr.org](https://shklr.org)
+[⭕ shklr.org](https://shklr.org){target="_blank"}
 :::
 
 ### 📑 Prefácio
@@ -315,3 +316,9 @@ Isso vai com vistas aos que criticam aquilo de que desconhecem até mesmo os pri
 É assim que devem proceder os espíritas com relação aos seus contraditores de boa ou má-fé. Revivesse hoje Platão e acharia as coisas quase como no seu tempo e poderia usar da mesma linguagem. Também Sócrates toparia criaturas que zombariam da sua crença nos Espíritos e que o qualificariam de louco, assim como ao seu discípulo Platão.
 
 Foi por haver professado esses princípios que Sócrates se viu ridiculizado, depois acusado de impiedade e condenado a beber cicuta. Tão certo é que, levantando contra si os interesses e os preconceitos que elas ferem, as grandes verdades novas não se podem firmar sem luta e sem fazer mártires.
+
+||| [!badge Ref.]&nbsp;&nbsp;&nbsp;[:icon-globe:](https://pt.m.wikipedia.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-book:](https://pt.m.wiktionary.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-location:](https://www.openstreetmap.org/export/embed.html?bbox=-11.447753906250002%2C44.84029065139799%2C7.778320312500001%2C52.5897007687178&amp;layer=mapnik){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-eye-closed:](https://sergioshklr.github.io/retype/blank){target="ext"}
+
+<iframe name="ext" src="" style="width: 100%; height: 100vh;"></iframe>
+
+|||
