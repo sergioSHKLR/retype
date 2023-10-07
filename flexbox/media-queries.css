@@ -1,0 +1,41 @@
+ @media only screen and (max-width: 782px) {
+      #item1 {
+        display: none;
+      }
+
+      #item2 {
+        display: block;
+      }
+
+      #item3 {
+        display: none;
+      }
+    }
+
+    @media only screen and (min-width: 783px) and (max-width: 1053px) {
+      #item1 {
+        display: none;
+      }
+
+      #item2 {
+        display: block;
+      }
+
+      #item3 {
+        display: block;
+      }
+    }
+
+    @media only screen and (min-width: 1054px) {
+      #item1 {
+        display: block;
+      }
+
+      #item2 {
+        display: block;
+      }
+
+      #item3 {
+        display: block;
+      }
+    }
