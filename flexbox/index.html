@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap" rel="stylesheet">
+
+<link rel='stylesheet' href='./classes.css'>
+<link rel='stylesheet' href='./framework.css'>
+<link rel='stylesheet' href='./media-queries.css'>
+<link rel='stylesheet' href='./elements.css'>
+
+
+<body>
+  <style>
+     
+
+   
+  </style>
+  <div class="flex-container">
+    <div id="item1">
+      <div class="spacer"></div>
+      <div class="top">top <button onclick="closePanel()">close</button>
+      </div>
+      <div class="spacer"></div>
+      <div class="sidebar-top">sidebar top</div>
+      <div class="sidebar-middle">sidebar middle</div>
+      <div class="sidebar-bottom">sidebar bottom</div>
+    </div>
+    <div id="item2">
+      <div class="spacer"></div>
+      <div class="top">top <button onclick="openPanel()">open</button>
+      </div>
+      <div class="spacer"></div>
+      <div class="main">main</div>
+    </div>
+    <div id="item3">
+      <div class="spacer"></div>
+      <div class="top">top</div>
+      <div class="spacer"></div>
+      <div class="ext">ext</div>
+    </div>
+  </div>
+  <script>
+    function openPanel() {
+      document.getElementById("item1").style.display = "block";
+    }
+
+    function closePanel() {
+      document.getElementById("item1").style.display = "none";
+    }
+  </script>
+</body>
+
+</html>
