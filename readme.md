@@ -16,13 +16,13 @@ date: 2023-10-03
 
 ||| [!badge Obra]
 
-Inspirado em outras iniciativas de ensino digital, tais como [Kardecpedia](https://kardecpedia.com/pt){target="ext"} e [Portal Luz Espírita](https://www.luzespirita.org.br/){target="ext"}, decidimos criar uma que permitisse ao estudante a consulta direta de fontes de referência sem que seu foco se perdesse ao navegar em janelas externas. Para tal fim estamos desenvolvendo uma interface inédita, mesclando ferramentas de leitura comuns em apps como Kindle e Adode Acrobat (ajuste de contraste, tipo e tamanho de fonte, dicionário, pesquisa, etc) com fontes de conhecimento e mídia pública (Wikipédia e afins) agregando artigos, imagens, vídeos e mapas ao texto original dos:
+Inspirado em outras iniciativas de ensino digital, tais como [Kardecpedia](https://kardecpedia.com/pt){target="ext"} e [Portal Luz Espírita](https://www.luzespirita.org.br/){target="ext"}, decidimos criar uma que permitisse ao estudante a consulta direta de fontes complementares sem que seu foco se perdesse ao navegar em janelas externas. Para tal fim estamos desenvolvendo uma interface inédita, mesclando ferramentas de leitura comuns em apps como Kindle e Adode Acrobat (ajuste de contraste, tipo e tamanho de fonte, dicionário, pesquisa, etc) com fontes de conhecimento e mídia pública (Wikipédia e afins) agregando artigos, imagens, vídeos e mapas ao texto original dos:
 
 - :ghost: Espíritos,
 - :older_man: Allan Kardec, e da
 - :latin_cross: bíblia.
 
-Usaremos também de emojis, cores, tipografia e diagramação moderna, sem alterar a mensagem mas facilitando o seu estudo e assimilação.
+Usaremos também de emojis, cores, tipografia e diagramação moderna, sem alterando a mensagem mas facilitando o seu estudo, assimilação.
 
 Nossas fases de desenvolvimento são:
 
@@ -42,7 +42,7 @@ Para tal fim, use o menu, as setas de navegação ou os links abaixo.
 
 Por fim, necessitamos de programadores front-end e full-stack. Caso queira contribuir com este projeto, entre em contato pelo Github.
 
-||| [!badge Referências]&nbsp;&nbsp;&nbsp;[:icon-globe:](https://pt.m.wikipedia.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-book:](https://pt.m.wiktionary.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-location:](https://www.openstreetmap.org/export/embed.html?bbox=-11.447753906250002%2C44.84029065139799%2C7.778320312500001%2C52.5897007687178&amp;layer=mapnik){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-eye-closed:](https://sergioshklr.github.io/retype/blank){target="ext"}
+||| [!badge Ref.]&nbsp;&nbsp;&nbsp;[:icon-globe:](https://pt.m.wikipedia.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-book:](https://pt.m.wiktionary.org){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-location:](https://www.openstreetmap.org/export/embed.html?bbox=-11.447753906250002%2C44.84029065139799%2C7.778320312500001%2C52.5897007687178&amp;layer=mapnik){target="ext"}&nbsp;&nbsp;&nbsp;[:icon-eye-closed:](https://sergioshklr.github.io/retype/blank){target="ext"}
 
 <iframe name="ext" src="" style="width: 100%; height: 100vh;"></iframe>
 

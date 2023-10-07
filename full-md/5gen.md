@@ -15,7 +15,7 @@ date: 1868-01-01
 
 # 📓 A Gênese
 
-## 🗂️ 0 - Pré-textual
+## 🗂️ 0. Pré-textual
 
 ### Folha de rosto
 
@@ -47,7 +47,7 @@ Esta nova obra é mais um passo dado para as consequências e aplicações do Es
 
 [^1]: N.E.: Ao leitor cabe, pois, durante a leitura desta obra, distinguir a parte apresentada como complementar da Doutrina, daquela que o próprio autor considera hipotética e pessoalmente dele.
 
-## 🗂️ 1 - A Gênese segundo o Espiritismo
+## 🗂️ 1. A Gênese segundo o Espiritismo
 
 ### 📑 01 - Caráter da revelação espírita
 
@@ -1285,7 +1285,7 @@ Após haver remontado, tanto quanto o permitia a nossa fraqueza, em direção à
 
 ##### #️⃣ GEN-1-12-p26
 
-## 🗂️ 2 - Os milagres segundo o Espiritismo
+## 🗂️ 2. Os milagres segundo o Espiritismo
 
 ### 📑 13 - Caracteres dos milagres
 
@@ -1561,7 +1561,7 @@ Após haver remontado, tanto quanto o permitia a nossa fraqueza, em direção à
 
 ##### #️⃣ GEN-2-15-p67
 
-## 🗂️ 3 - As predições segundo o Espiritismo
+## 🗂️ 3. As predições segundo o Espiritismo
 
 ### 📑 16 - Teoria da presciência
 
