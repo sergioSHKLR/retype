@@ -1,6 +1,6 @@
 ---
 icon: ":card_index_dividers:"
-label: 2⠠ Das manifestações espíritas
+label: 2⠠ Manifestações espíritas
 layout: default
 order: 100
 author:

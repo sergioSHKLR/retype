@@ -1,6 +1,6 @@
 ---
 icon: ":dove_of_peace:"
-label: O Evangelho segundo o Espiritismo
+label: O Evangelho
 layout: default
 order: 300
 author:

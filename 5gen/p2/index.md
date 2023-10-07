@@ -1,6 +1,6 @@
 ---
 icon: ":card_index_dividers:"
-label: 2⠠ Os milagres segundo o Espiritismo
+label: 2⠠ Os milagres
 layout: default
 order: 200
 author:
