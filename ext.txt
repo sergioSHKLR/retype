@@ -1,0 +1,7 @@
+Links do painel Conteúdo abrem aqui, tais como:
+
+artigos do Wikipédia,
+definicões de palavras do Wikicionário,
+trechos da bíblia por YouVersion e Sociedade Bíblica Brasileira
+vídeos da A Igreja de Jesus Cristo dos Santos dos Últimos Dias,
+mapas de OpenStreetMaps (com a ajuda do Java script Leaflet)
