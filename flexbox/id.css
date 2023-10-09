@@ -1,0 +1,83 @@
+ .spacer {
+   height: 10px;
+ }
+
+ #top {
+   height: 30px;
+   line-height: 30px;
+   border-right: 1px solid gainsboro;
+   padding: 0 10px 0 10px;
+ }
+
+ #sidebar-top {
+   border-top: 1px solid gainsboro;
+   border-right: 1px solid gainsboro;
+   border-bottom: 1px solid gainsboro;
+   height: 180px;
+   padding: 10px;
+ }
+
+ #sidebar-middle {
+   border-bottom: 1px solid gainsboro;
+   border-right: 1px solid gainsboro;
+   padding: 10px;
+   height: calc(98vh - 500px);
+   overflow-y: scroll;
+   overflow-x: hidden;
+ }
+
+ #sidebar-bottom {
+   height: 230px;
+   border-right: 1px solid gainsboro;
+   padding: 10px;
+ }
+
+ #main {
+   border-top: 1px solid gainsboro;
+   border-right: 1px solid gainsboro;
+   height: 92vh;
+   padding: 10px;
+   font-family: 'Roboto Slab';
+   font-weight: 200;
+ }
+
+ #ext {
+   border-right: 1px solid gainsboro;
+   border-top: 1px solid gainsboro;
+   height: 92vh;
+   padding: 10px;
+ }
+
+ #item1,
+ #item2,
+ #item3 {
+   height: 93vh;
+ }
+
+ #flex-container {
+   display: flex;
+   justify-content: flex-end;
+   height: 93vh;
+   box-sizing: border-box;
+   border-collapse: collapse;
+ }
+
+ #flex-container>div {
+   border: 1px solid transparent;
+ }
+
+ #item1 {
+   /* flex:0 1 auto; */
+   flex-grow: 0;
+   width: 200px;
+ }
+
+ #item2 {
+   /* flex:1 1 auto; */
+   flex-grow: 1;
+ }
+
+ #item3 {
+   /* flex:1 1 auto; */
+   flex-grow: 1;
+ }
